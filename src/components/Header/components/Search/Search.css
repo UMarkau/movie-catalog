@@ -1,0 +1,8 @@
+.search {
+  width: 200px;
+  height: 20px;
+
+  @media (min-width:600px)  {
+    flex: 1;
+  }
+}

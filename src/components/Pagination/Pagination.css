@@ -1,0 +1,10 @@
+.active-page-number {
+  outline: 2px solid red;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 40px;
+}
